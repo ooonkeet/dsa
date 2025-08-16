@@ -1,6 +1,7 @@
-                                            f(idx,target,ds)
-                                                      |
-                                                 BASE CONDITION
+
+                                                             f(idx,target,ds)
+                                                                    |
+                                                             BASE CONDITION
                                            --------------------------------------------------
                                            |   if(idx==n)                                   |
                                            |       if(target==0)                            |
