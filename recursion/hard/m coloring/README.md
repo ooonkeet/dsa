@@ -38,6 +38,9 @@ Suppose now the color is m=1, the graph is not colored.
                ↑      ||     already present in node 
                       ||     '0' which is adjacent to '1'
                      f(2)
+                  
+<img width="1016" height="666" alt="img_2" src="https://github.com/user-attachments/assets/a46816a2-1d13-4cbd-a1ee-79ddbcad5871" />
+
 
 TIME COMPLEXITY - O(m^N * N)
 
