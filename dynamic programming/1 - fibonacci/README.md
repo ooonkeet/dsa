@@ -166,7 +166,7 @@ Space Complexity:
 - Hence, the space complexity is O(1).
 
 In summary:
-Time complexity: O(n)
-Space complexity: O(1)
+- Time complexity: O(n)
+- Space complexity: O(1)
 
 ------------------------------------------------------------------------------------
