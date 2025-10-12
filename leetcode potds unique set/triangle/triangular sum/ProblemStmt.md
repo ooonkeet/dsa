@@ -14,7 +14,9 @@ The triangular sum of nums is the value of the only element present in nums afte
 
 5. Return the triangular sum of nums.
 
-![Screenshot 2025-10-12 192913.png](../../../../../../Pictures/Screenshots/Screenshot%202025-10-12%20192913.png)
+   <img width="454" height="531" alt="Screenshot 2025-10-12 192913" src="https://github.com/user-attachments/assets/e2935616-9afa-436b-8a35-2bf21802cec9" />
+
+
 
 Constraints:
 
