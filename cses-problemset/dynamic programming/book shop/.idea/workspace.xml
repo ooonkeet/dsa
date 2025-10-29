@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BackendCodeEditorMiscSettings">
+    <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexedValue" value="true" type="bool" />
+    <option name="/Default/Housekeeping/GlobalSettingsUpgraded/IsUpgraded/@EntryValue" value="true" type="bool" />
+    <option name="/Default/RiderDebugger/RiderRestoreDecompile/RestoreDecompileSetting/@EntryValue" value="false" type="bool" />
+  </component>
+  <component name="CMakeProjectFlavorService">
+    <option name="flavorId" value="CMakePlainProjectFlavor" />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="da12d83a-912d-4e11-a3f4-16016c7b4e7f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/problem statement.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/program.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coin combinations 1/.idea/coin combinations 1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coin combinations 1/problem statement.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coin combinations 1/program.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coin combinations 1/tests.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coin combinations 2/.idea/coin combinations 2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coin combinations 2/problem statement.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coin combinations 2/program.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dice combinations/.idea/dice combinations.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dice combinations/problem statement.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dice combinations/program.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grid paths 1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grid paths 1/.idea/editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grid paths 1/.idea/grid paths 1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grid paths 1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grid paths 1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grid paths 1/problem statement.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grid paths 1/program.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../minimizing coins/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../minimizing coins/.idea/editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../minimizing coins/.idea/minimizing coins.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../minimizing coins/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../minimizing coins/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../minimizing coins/problem statement.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../minimizing coins/program.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../removing digits/.idea/removing digits.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../removing digits/problem statement.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../removing digits/program.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sorting and searching/josephus problem 1/.idea/josephus problem 1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sorting and searching/josephus problem 2/.idea/josephus problem 2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sorting and searching/nested ranges check/.idea/nested ranges check.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sorting and searching/nested ranges count/.idea/nested ranges count.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sorting and searching/sum of two values/.idea/sum of two values.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sorting and searching/towers/.idea/towers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sorting and searching/traffic lights/.idea/traffic lights.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../dynamic programming/3 - frog jump/.idea/3 - frog jump.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../dynamic programming/4 - frog jump with k steps/.idea/4 - frog jump with k steps.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../heap/basics/.idea/basics.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../recursion/algorithm/quick sort/.idea/quick sort.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../recursion/hard/rat in a maze/.idea/rat in a maze.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../recursion/hard/sudoku solver/.idea/sudoku solver.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../recursion/intermediate/kth permutation/.idea/kth permutation.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leetcode potds unique set/triangle/Largest Perimeter Triangle/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leetcode potds unique set/triangle/Largest Perimeter Triangle/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../recursion/multiple recursion calls/.idea/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../recursion/multiple recursion calls/.idea/editor.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../recursion/multiple recursion calls/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../recursion/multiple recursion calls/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "ooonkeet"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/ooonkeet/dsa.git",
+    "accountId": "bac87d89-5438-4757-9768-e87807c65776"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="34R8DnOn7PNGhedAhX2yc6YFBhO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "C/C++ File.program.cpp.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.RadMigrateCodeStyle": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="program.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="book shop" TARGET_NAME="program.cpp" CONFIG_NAME="program.cpp">
+      <option name="sourceFile" value="program.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="C/C++ File.program.cpp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="da12d83a-912d-4e11-a3f4-16016c7b4e7f" name="Changes" comment="" />
+      <created>1761164906815</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1761164906815</updated>
+      <workItem from="1761164907979" duration="882000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
