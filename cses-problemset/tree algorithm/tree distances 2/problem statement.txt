@@ -8,7 +8,7 @@ Then there are n-1 lines describing the edges. Each line contains two integers a
 Output
 Print n integers: for each node 1,2,....,n, the sum of the distances.
 
-Constraints
+Constraints:
 1<=n<=2*10^5
 1<=a,b<=n
 
