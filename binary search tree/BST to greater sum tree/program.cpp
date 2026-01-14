@@ -22,13 +22,21 @@ TreeNode* insertBST(TreeNode* root, int val) {
 
     return root;
 }
-void inorder(TreeNode* root) {
-    if (!root)
-        return;
+void levelOrder(TreeNode* root) {
+    if (!root) return;
 
-    inorder(root->left);
-    cout << root->val << "  ";
-    inorder(root->right);
+    queue<TreeNode*> q;
+    q.push(root);
+
+    while (!q.empty()) {
+        TreeNode* curr = q.front();
+        q.pop();
+
+        cout << curr->val << " ";
+
+        if (curr->left) q.push(curr->left);
+        if (curr->right) q.push(curr->right);
+    }
 }
 void solve(TreeNode* root,int &sum){
     if(!root)
@@ -56,15 +64,15 @@ int main() {
         cin >> value;
         root = insertBST(root, value);
     }
-    cout << "Inorder before GST:  ";
-    inorder(root);
+    cout << "BST before GST:  ";
+    levelOrder(root);
     cout << endl;
 
 
     root = bstToGst(root);
 
-    cout << "Inorder after GST:  ";
-    inorder(root);
+    cout << "BST converted to GST:  ";
+    levelOrder(root);
     cout << endl;
 
     return 0;
