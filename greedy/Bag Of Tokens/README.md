@@ -42,3 +42,27 @@ Topics - Array, Two Pointers, Greedy, Sorting.
     |                                                                                                            |
     |   meanwhile score is also initialised to 0, which points the current score which is obtained by operations.|
     --------------------------------------------------------------------------------------------------------------
+
+Time Complexity:
+
+    - Sorting the tokens takes O(n log n), where n is the number of tokens.
+    
+    - The while loop runs at most n times because each iteration either increments `i` or decrements `j`, moving through the         array once.
+    
+    - Therefore, the overall time complexity is dominated by the sorting step, resulting in O(n log n).
+
+
+Space Complexity:
+
+    - The sorting operation typically requires O(1) or O(n) space depending on the sorting implementation (standard sort in             C++ is usually in-place, so O(1) auxiliary space).
+    
+    - The additional variables (`i`, `j`, `maxScore`, `score`, `power`) use constant space.
+    
+    - Hence, the overall space complexity is O(1) (ignoring input storage), or O(n) if considering the input storage.
+
+
+In summary:
+
+    Time complexity: O(n log n)
+    
+    Space complexity: O(1) (or O(n) if considering input storage)
