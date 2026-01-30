@@ -40,6 +40,10 @@ growTime = [2,1,2,1]
 
 Therefore, Output = 9 days.
 
+Topics - Array,Greedy,Sorting.
+
+Rated - Hard.
+
 Thus, we can see we can find the earliest day of bloom by setting the plant which takes maximum time to bloom at first.
 
 Approach:- 
