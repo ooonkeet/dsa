@@ -40,6 +40,8 @@ growTime = [2,1,2,1]
 
 Therefore, Output = 9 days.
 
+Link - https://leetcode.com/problems/earliest-possible-day-of-full-bloom/description/
+
 Topics - Array,Greedy,Sorting.
 
 Rated - Hard.
