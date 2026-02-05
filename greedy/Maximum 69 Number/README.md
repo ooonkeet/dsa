@@ -58,7 +58,7 @@ For Example,
     first six found at - 2nd position.
     
     --------------------------------------
-    | Position reversed | 3 | 2 | 1 | 1 |
+    | Position reversed | 3 | 2 | 1 | 0 |
     |-------------------|---|---|---|---|
      | Digit             | 9 | 6 | 6 | 9 |
 
