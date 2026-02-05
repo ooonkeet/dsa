@@ -45,7 +45,7 @@ One variable updates the place value if it finds 6, initialised to -1.
 Another updates the position at each iteration.
 
 If place value is not updated, we return original number.
-This happens in case of 9,99,999,9999..........
+This happens in case of 9,99,999,9999.......
 
 If place value is updated, we add multiples of 3,30,300..... according to place value.
 
