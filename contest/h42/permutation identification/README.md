@@ -71,8 +71,8 @@ Input
 2
 
 1
-Output
 
+Output
 
 ? 1 2 3
 
