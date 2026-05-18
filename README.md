@@ -5,4 +5,3 @@
 10/5- paul
 11/5 - keena
 12/5 - siu
-13/5 - Suzuka 
