@@ -2,4 +2,3 @@
  Just an online repo to practice DSA basic qsns 
 
 9/5 - kaul 
-10/5- paul
