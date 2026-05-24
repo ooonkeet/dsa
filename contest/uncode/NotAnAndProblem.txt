@@ -1,0 +1,35 @@
+The function f(x) calculates the sum of the alphabetical values of the English spelling of
+the integer x, ignoring spaces, hyphens, and the word ”AND”. Let’s assign each letter its
+corresponding numerical value: A = 1,B = 2,C = 3,D = 4,E = 5,F = 6,G = 7,H =
+8, I = 9,J = 10,K = 11,L = 12,M = 13,N = 14,O = 15,P = 16,Q = 17,R = 18,S =
+19, T = 20,U = 21,V = 22,W =23,X =24,Y =25,Z =26.
+Let’s verify this logic against the provided examples:
+Example 1: f(873) = 289
+Spell out 873: EIGHT HUNDRED SEVENTY THREE
+• EIGHT: 5+9+7+8+20=49
+• HUNDRED: 8+21+14+4+18+5+4=74
+• SEVENTY: 19+5+22+5+14+20+25=110
+• THREE: 20+8+18+5+5=56
+Total: 49 + 74+110+56 = 289
+Example 2: f(289) = 248
+Spell out 289: TWO HUNDRED EIGHTY NINE
+• TWO: 20+23+15=58
+• HUNDRED: 74
+• EIGHTY: 5+9+7+8+20+25=74
+• NINE: 14+9+14+5=42
+Total: 58 + 74+74+42 = 248
+Example 3: f(67) = 162
+Spell out 67: SIXTY SEVEN
+• SIXTY: 19+9+24+20+25=97
+• SEVEN: 19+5+22+5+14=65
+Total: 97 + 65 = 162
+For f(8426),
+The number 8426 written in words is: Eight thousand four hundred twenty six.
+Here is the breakdown of the letter values for each word (ignoring spaces and hyphens):
+• EIGHT: 5+9+7+8+20=49
+• THOUSAND: 20+8+15+21+19+1+14+4=102
+• FOUR: 6+15+21+18=60
+• HUNDRED: 8+21+14+4+18+5+4=74
+• TWENTY: 20+23+5+14+20+25=107
+• SIX: 19+9+24=52
+When you add those word totals together: 49 + 102 +60+74+107+52 = 444.
