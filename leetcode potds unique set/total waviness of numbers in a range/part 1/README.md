@@ -53,4 +53,4 @@ Number 4848: the second digit 8 is a peak, and the third digit 4 is a valley, gi
 
 Constraints:
 
-1 <= num1 <= num2 <= 105
+1 <= num1 <= num2 <= 10^5
