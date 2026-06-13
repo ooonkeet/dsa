@@ -9,3 +9,14 @@ Select any one node x at the maximum depth. Return the number of ways to assign 
 Since the answer may be large, return it modulo 109 + 7.
 
 Note: Ignore all edges not in the path from node 1 to x.
+
+Example 1:
+
+Input: edges = [[1,2]]
+
+Output: 1
+
+Explanation:
+
+The path from Node 1 to Node 2 consists of one edge (1 → 2).
+Assigning weight 1 makes the cost odd, while 2 makes it even. Thus, the number of valid assignments is 1.
