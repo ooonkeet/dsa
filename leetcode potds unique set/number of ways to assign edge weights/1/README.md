@@ -20,3 +20,15 @@ Explanation:
 
 The path from Node 1 to Node 2 consists of one edge (1 → 2).
 Assigning weight 1 makes the cost odd, while 2 makes it even. Thus, the number of valid assignments is 1.
+
+example 2:
+
+Input: edges = [[1,2],[1,3],[3,4],[3,5]]
+
+Output: 2
+
+Explanation:
+
+The maximum depth is 2, with nodes 4 and 5 at the same depth. Either node can be selected for processing.
+For example, the path from Node 1 to Node 4 consists of two edges (1 → 3 and 3 → 4).
+Assigning weights (1,2) or (2,1) results in an odd cost. Thus, the number of valid assignments is 2.
