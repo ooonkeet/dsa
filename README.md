@@ -2,4 +2,3 @@
  Just an online repo to practice DSA basic qsns
 
 1/1
-2/2
