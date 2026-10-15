@@ -8,3 +8,5 @@ day 2 - dwitiya
 day 3 - tritiya/bday
 
 day 4 - choturthi
+
+day 5 - panchami
