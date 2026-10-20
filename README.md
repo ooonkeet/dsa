@@ -18,3 +18,5 @@ day 7 - saptami
 day 8 - saptami 2
 
 day 9 - astami
+
+day 10 - navami
