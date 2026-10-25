@@ -16,3 +16,5 @@ day 6 - sashthi
 day 7 - saptami
 
 day 8 - saptami 2
+
+day 15 - laxmi puja
