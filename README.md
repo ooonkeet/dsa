@@ -13,6 +13,4 @@ day 5 - panchami
 
 day 6 - sashthi
 
-day 7 - saptami
-
 day 15 - laxmi puja
