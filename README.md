@@ -10,5 +10,3 @@ day 3 - tritiya/bday
 day 4 - choturthi
 
 day 5 - panchami
-
-day 6 - sashthi
