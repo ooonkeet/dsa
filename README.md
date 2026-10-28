@@ -12,5 +12,3 @@ day 4 - choturthi
 day 5 - panchami
 
 day 6 - sashthi
-
-day 15 - laxmi puja
