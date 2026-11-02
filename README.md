@@ -3,4 +3,3 @@
 
 day 1 - prothoma
 
-day 2 - dwitiya
